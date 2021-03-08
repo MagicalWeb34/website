@@ -1058,6 +1058,11 @@ h5,
     border-width: 2px;
 }
 
+.g-recaptcha {
+    visibility: hidden;
+    height: 0px;
+}
+
 .site-section {
     padding: 2em 0;
 }
